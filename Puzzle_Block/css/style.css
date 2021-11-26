@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+	font-size: 30px;	
+}
+a:focus {
+	color: #006400;
+}
+.center {
+	text-align: center;
+}
